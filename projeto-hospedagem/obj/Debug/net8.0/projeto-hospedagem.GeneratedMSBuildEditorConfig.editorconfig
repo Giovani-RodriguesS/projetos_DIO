@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = projeto_hospedagem
-build_property.ProjectDir = C:\Users\g_gab\Documents\Github\projetos_DIO\projeto-hospedagem\
+build_property.ProjectDir = C:\Dio\projeto-hospedagem\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
