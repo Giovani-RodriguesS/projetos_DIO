@@ -12,3 +12,4 @@ C:\Dio\projeto-estacionamento\obj\Debug\net8.0\refint\projeto-estacionamento.dll
 C:\Dio\projeto-estacionamento\obj\Debug\net8.0\projeto-estacionamento.pdb
 C:\Dio\projeto-estacionamento\obj\Debug\net8.0\projeto-estacionamento.genruntimeconfig.cache
 C:\Dio\projeto-estacionamento\obj\Debug\net8.0\ref\projeto-estacionamento.dll
+C:\Dio\projeto-estacionamento\obj\Debug\net8.0\projeto-estacionamento.sourcelink.json
